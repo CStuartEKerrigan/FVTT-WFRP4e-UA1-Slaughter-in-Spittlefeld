@@ -4,6 +4,9 @@
    "description": "Content from the Ubersreik Adventures: Slaughter in Spittlefeld for Warhammer Fantary Roleplay 4e",   
    "author": "Ceodryn, Stu",
    "version": "2.0.0",
+   "manifest": "https://raw.githubusercontent.com/CStuartEKerrigan/FVTT-WFRP4e-UA1-Slaughter-in-Spittlefeld/master/module.json",
+   "download": "https://github.com/CStuartEKerrigan/FVTT-WFRP4e-UA1-Slaughter-in-Spittlefeld/archive/master.zip",
+   "url": "https://github.com/CStuartEKerrigan/FVTT-WFRP4e-UA1-Slaughter-in-Spittlefeld/"
    "systems": ["wfrp4e"],
    "minimumCoreVersion": "0.5.0",
    "compatibleCoreVersion":"0.5.5",
