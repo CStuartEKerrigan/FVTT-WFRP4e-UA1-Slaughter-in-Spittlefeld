@@ -1,6 +1,8 @@
 # WFRP4e-UA1-Slaughter-in-Spittlefeld
 Content from the Cubicle 7's Ubersreik Adventure: Slaughter in Spittlefeld for WFRP4e Foundry VTT
 
+Now with colourized tokens.
+
 ## Installation
 Add via Foundry VTT Module Setup screen.
 * Manifest URL: https://raw.githubusercontent.com/Ceodryn/FVTT-WFRP4e-UA1-Slaughter-in-Spittlefeld/master/module.json
