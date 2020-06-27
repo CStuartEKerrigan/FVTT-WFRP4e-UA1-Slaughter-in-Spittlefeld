@@ -1,4 +1,4 @@
-# Ubersreik Slaughter in Spittlefeld
+# Ubersreik Adventures: Slaughter in Spittlefeld
 Content to assist in the running of the Cubicle 7's Ubersreik Adventure: Slaughter in Spittlefeld for WFRP4e Foundry VTT. [The module is available on DriveThruRPG for $3.99](https://www.drivethrurpg.com/product/292546/WFRP-Ubersreik-Adventures--Slaughter-in-Spittlefeld]).
 
 This pack was originally created by Ceodryn. It was kidnapped and developed Stockholm Syndrome by the miscreant known only as Stu.
